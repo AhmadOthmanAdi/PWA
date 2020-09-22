@@ -12,55 +12,101 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": -346595762,
+        "HashCode": 1198800625,
         "Kind": "Components.Component",
-        "Name": "httpsAPP.Shared.SurveyPrompt",
+        "Name": "httpsAPP.App",
         "AssemblyName": "httpsAPP",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
+            "TagName": "App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "httpsAPP.Shared.SurveyPrompt"
+          "Common.TypeName": "httpsAPP.App"
         }
       },
       {
-        "HashCode": 328038353,
+        "HashCode": -367127138,
         "Kind": "Components.Component",
-        "Name": "httpsAPP.Shared.SurveyPrompt",
+        "Name": "httpsAPP.App",
         "AssemblyName": "httpsAPP",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "httpsAPP.Shared.SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
+            "TagName": "httpsAPP.App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "httpsAPP.Shared.SurveyPrompt",
+          "Common.TypeName": "httpsAPP.App",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -212588035,
+        "Kind": "Components.Component",
+        "Name": "httpsAPP.Pages.FetchData",
+        "AssemblyName": "httpsAPP",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "httpsAPP.Pages.FetchData"
+        }
+      },
+      {
+        "HashCode": 493481240,
+        "Kind": "Components.Component",
+        "Name": "httpsAPP.Pages.FetchData",
+        "AssemblyName": "httpsAPP",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "httpsAPP.Pages.FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "httpsAPP.Pages.FetchData",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -251420613,
+        "Kind": "Components.Component",
+        "Name": "httpsAPP.Pages.Counter",
+        "AssemblyName": "httpsAPP",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "httpsAPP.Pages.Counter"
+        }
+      },
+      {
+        "HashCode": 1403244881,
+        "Kind": "Components.Component",
+        "Name": "httpsAPP.Pages.Counter",
+        "AssemblyName": "httpsAPP",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "httpsAPP.Pages.Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "httpsAPP.Pages.Counter",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -161,6 +207,59 @@
         }
       },
       {
+        "HashCode": -346595762,
+        "Kind": "Components.Component",
+        "Name": "httpsAPP.Shared.SurveyPrompt",
+        "AssemblyName": "httpsAPP",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "httpsAPP.Shared.SurveyPrompt"
+        }
+      },
+      {
+        "HashCode": 328038353,
+        "Kind": "Components.Component",
+        "Name": "httpsAPP.Shared.SurveyPrompt",
+        "AssemblyName": "httpsAPP",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "httpsAPP.Shared.SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "httpsAPP.Shared.SurveyPrompt",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -1186732610,
         "Kind": "Components.Component",
         "Name": "httpsAPP.Shared.NavMenu",
@@ -190,138 +289,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "httpsAPP.Shared.NavMenu",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -294298414,
-        "Kind": "Components.Component",
-        "Name": "httpsAPP.Pages.Index",
-        "AssemblyName": "httpsAPP",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "httpsAPP.Pages.Index"
-        }
-      },
-      {
-        "HashCode": -1776520506,
-        "Kind": "Components.Component",
-        "Name": "httpsAPP.Pages.Index",
-        "AssemblyName": "httpsAPP",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "httpsAPP.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "httpsAPP.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -212588035,
-        "Kind": "Components.Component",
-        "Name": "httpsAPP.Pages.FetchData",
-        "AssemblyName": "httpsAPP",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "httpsAPP.Pages.FetchData"
-        }
-      },
-      {
-        "HashCode": 493481240,
-        "Kind": "Components.Component",
-        "Name": "httpsAPP.Pages.FetchData",
-        "AssemblyName": "httpsAPP",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "httpsAPP.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "httpsAPP.Pages.FetchData",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -251420613,
-        "Kind": "Components.Component",
-        "Name": "httpsAPP.Pages.Counter",
-        "AssemblyName": "httpsAPP",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "httpsAPP.Pages.Counter"
-        }
-      },
-      {
-        "HashCode": 1403244881,
-        "Kind": "Components.Component",
-        "Name": "httpsAPP.Pages.Counter",
-        "AssemblyName": "httpsAPP",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "httpsAPP.Pages.Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "httpsAPP.Pages.Counter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1198800625,
-        "Kind": "Components.Component",
-        "Name": "httpsAPP.App",
-        "AssemblyName": "httpsAPP",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "httpsAPP.App"
-        }
-      },
-      {
-        "HashCode": -367127138,
-        "Kind": "Components.Component",
-        "Name": "httpsAPP.App",
-        "AssemblyName": "httpsAPP",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "httpsAPP.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "httpsAPP.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
